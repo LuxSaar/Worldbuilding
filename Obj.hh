@@ -12,17 +12,7 @@
 class Object{
 protected:
  std::string Type;
-public:
-};
-
-class Person : private Object{
-    protected:
-    std::string Personality;
-    std::string Origin;
-    std::string Role;
-    std::string Appearance;
-
-    std::string ReadObj(int Num,std::string InputFile){
+ std::string ReadObj(int Num,std::string InputFile){
         std::ifstream File(InputFile);
         std::string TraitPlaceHolder;
         int IndexTotal = 0;
@@ -38,6 +28,15 @@ class Person : private Object{
         }
         return TraitPlaceHolder;
     }
+public:
+};
+
+class Person : private Object{
+    protected:
+    std::string Personality;
+    std::string Origin;
+    std::string Role;
+    std::string Appearance;
     public:
     Person(int P, int O, int R, int A){
         Type = "Person";
