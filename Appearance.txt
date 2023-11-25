@@ -1,0 +1,68 @@
+Tall
+Short
+Slender
+Muscular
+Plump
+Freckled
+Scarred
+Tattooed
+Pierced
+Blue-eyed
+Brown-eyed
+Green-eyed
+Hazel-eyed
+Blond-haired
+Brunette
+Red-haired
+Black-haired
+Curly-haired
+Straight-haired
+Wavy-haired
+Bald
+Bearded
+Mustachioed
+Clean-shaven
+Long-legged
+Broad-shouldered
+Elegant hands
+Rough hands
+Wrinkled skin
+Smooth skin
+Bushy eyebrows
+Thin eyebrows
+Long eyelashes
+Short eyelashes
+High cheekbones
+Square jaw
+Round face
+Long face
+Dimpled smile
+Crooked smile
+Gap-toothed
+Full lips
+Thin lips
+Hooked nose
+Button nose
+Ears sticking out
+Small ears
+Graceful
+Clumsy
+Agile
+Limping
+Athletic build
+Lanky
+Petite
+Thick hair
+Thin hair
+Sun-kissed skin
+Chiseled features
+Soft features
+Intense gaze
+Warm smile
+Stern expression
+Youthful appearance
+Aged appearance
+Unkempt look
+Polished look
+Piercing eyes
+Gentle eyes
