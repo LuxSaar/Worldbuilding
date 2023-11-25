@@ -13,6 +13,9 @@ using namespace std;
 
 int main(void){
     srand(time(0));
+    cout<<"\n\nPerson 1: "<<std::endl;
     Person Balls(rand(), rand(), rand(), rand());
+    cout<<"\n\nPerson 2: "<<std::endl;
     Person Walls(rand(), rand(), rand(), rand());
+    cout<<"\n\n";
 }
