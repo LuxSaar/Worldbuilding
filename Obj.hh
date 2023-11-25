@@ -21,18 +21,27 @@ class Person : private Object{
     std::string Origin;
     std::string Role;
     std::string Appearance;
+
+    std::string ReadObj(int Num,std::string InputFile){
+        std::ifstream File(InputFile);
+        std::string TraitPlaceHolder;
+        int IndexTotal = 0;
+        while(File >> TraitPlaceHolder){
+            IndexTotal++;
+        }
+        File.clear();
+        File.seekg(0, std::ios::beg);
+        Num = (Num%IndexTotal)+1;
+        std::cout<<Num;
+        for(int i = 0; i < Num-1;i++){
+            File >> TraitPlaceHolder;
+        }
+        return TraitPlaceHolder;
+    }
     public:
     Person(int P, int O, int R, int A){
-
         Type = "Person";
-        std::ifstream Orig("Origin.txt");
-        std::string OriginPlaceHolder;
-        int OrigNum;
-        while(Orig >> OriginPlaceHolder){
-            OrigNum++;
-        }
-        O = (O%3)+1;
-        std::cout<<O;
+        std::cout<<ReadObj(O, "Origin.txt");
     }
 };
 
