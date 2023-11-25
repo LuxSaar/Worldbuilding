@@ -12,7 +12,7 @@
 class Object{
 protected:
  std::string Type;
- std::string ReadObj(int Num,std::string InputFile){
+ std::string ReadObj(int Num,std::string InputFile) {
         std::ifstream File(InputFile);
         std::string TraitPlaceHolder;
         int IndexTotal = 0;
@@ -22,7 +22,7 @@ protected:
         File.clear();
         File.seekg(0, std::ios::beg);
         Num = (Num%IndexTotal)+1;
-        std::cout<<Num;
+        std::cout<<Num<<" ";
         for(int i = 0; i < Num-1;i++){
             File >> TraitPlaceHolder;
         }
@@ -40,7 +40,10 @@ class Person : private Object{
     public:
     Person(int P, int O, int R, int A){
         Type = "Person";
-        std::cout<<ReadObj(O, "Origin.txt");
+        std::cout<<"Origin "<<ReadObj(O, "Origin.txt")<<std::endl;
+        std::cout<<"Personality "<<ReadObj(P, "Personality.txt")<<std::endl;
+        std::cout<<"Role "<<ReadObj(R, "Role.txt")<<std::endl;
+        std::cout<<"Appearance "<<ReadObj(A, "Appearance.txt")<<std::endl;
     }
 };
 
