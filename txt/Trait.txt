@@ -1,30 +1,47 @@
-Mystical Fog
-Everlasting Daylight
-Eternal Night
-Floating Stones
-Whispering Winds
-Singing Crystals
-Cursed Grounds
-Sacred Lands
-Celestial Aura
-Enchanted Bloom
-Magical Barrier
-Shifting Sands
-Petrified Forest
-Thunderous Skies
-Timeless Realm
-Illuminated Path
-Forbidden Magic
-Echoing Voids
-Shimmering Waters
-Luminous Foliage
-Guardian Spirits
-Mystical Runes
-Phantom Shadows
-Ethereal Flames
-Arcane Storms
-Serene Breeze
-Ancient Enigma
-Haunting Echoes
-Celestial Alignment
-Infernal Heat
+Tranquil
+Bustling
+Picturesque
+Historic
+Quaint
+Vibrant
+Enchanting
+Charming
+Sprawling
+Serene
+Idyllic
+Eclectic
+Cosmopolitan
+Rustic
+Mystical
+Lively
+Scenic
+Artistic
+Cozy
+Bohemian
+Green
+Timeless
+Enchanted
+Innovative
+Tranquil
+Storming
+Frigid
+Dreary
+Dilapidated
+Squalid
+Desolate
+Blighted
+Grim
+Abandoned
+Ominous
+Wretched
+Mired
+Disheveled
+Forsaken
+Cursed
+Eerie
+Morose
+Haggard
+Tainted
+Malevolent
+Decaying
+Ruined

@@ -1,30 +1,50 @@
-Emerald Forest
-Silver Mountains
-Crimson Canyon
-Sapphire Seas
-Golden Desert
-Mystic Valley
-Shadowed Swamps
-Sunken Islands
-Crystal Caverns
-Whispering Plains
-Thundering Highlands
-Frozen Tundra
-Starlit Lake
-Haunted Woods
-Forgotten Ruins
-Celestial Gardens
-Echoing Mountains
-Twilight Grove
-Fiery Volcano
-Eternal Glacier
-Phantom Mesa
-Radiant Coast
-Darkened Hills
-Stormy Peak
-Mystic Archipelago
-Arcane Plateau
-Hidden Oasis
-Fabled Falls
-Skyward Cliffs
-Ancient Steppe
+Citadel
+Borough
+Hamlet
+Shire
+Thorp
+Fief
+Domain
+Manor
+Keep
+Cloister
+Barony
+Bastion
+Serfdom
+Bailiwick
+Bailiff
+Bailey
+Ville
+Vill
+Folly
+Abbey
+Portcullis
+Ward
+Burgh
+Moat
+Tithing
+Guildhall
+Guild
+Court
+Bailey
+Burg
+City
+Town
+Village
+Treasury
+Cavern
+Vault
+Labyrinth
+Hoarde
+Chamber
+Stronghold
+Dungeon
+Crypt
+Xanadu
+Haven
+Rath
+Arcanum
+Elysium
+Mystique
+Hollows
+Cache

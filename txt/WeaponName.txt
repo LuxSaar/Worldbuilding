@@ -1,30 +1,40 @@
-Emberblade
-Frostfang
-Thunderclap Bow
-Shadowstrike Dagger
-Lightbringer Sword
-Earthshaker Mace
-Voidstaff
-Dragon's Breath Wand
-Seraphim Lance
-Nightshade Sickle
-Stormbreaker Axe
-Whisperwind Bow
-Ironbark Shield
-Sunflare Rapier
-Moonbeam Scythe
-Tidecaller Trident
-Starburst Crossbow
-Inferno Flail
-Crystal Spike Staff
-Phoenix Repeater
-Banshee Wail Sword
-Leviathan Harpoon
-Golem Pounder Hammer
-Necrofrost Blade
-Spiritweaver Rod
-Glacial Edge
-Celestial Halberd
-Aetherwing Glaive
-Mystic Grimoire
-Titan Maul
+Sword  
+Dagger  
+Axe  
+Spear  
+Bow  
+Crossbow  
+Mace  
+Club  
+Polearm  
+Warhammer  
+Halberd  
+Sling  
+Javelin  
+Quarterstaff  
+Flail  
+Longbow  
+Shortbow  
+Battleaxe  
+Rapier  
+Cutlass  
+Katana  
+Nunchaku  
+Sai  
+War_pick  
+Morningstar  
+Boomerang  
+Slingshot  
+Slings  
+Brass_knuckles  
+War_scythe  
+War_fan  
+Whips  
+Cane_sword  
+Blowgun  
+Tomahawk  
+War_sickle  
+War_trident  
+War_club  
+War_flail  
+War_spear

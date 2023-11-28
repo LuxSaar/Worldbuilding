@@ -1,30 +1,29 @@
-Dragon's Blood
-Phoenix Ash
-Unicorn Tear
-Mermaid Scale
-Fairy Wing
-Wyvern Venom
-Basilisk Eye
-Griffin Feather
-Titan Bone
-Leviathan Pearl
-Moonstone Shard
-Sun Crystal
-Star Ruby
-Void Essence
-Earth Heart
-Flame Opal
-Frost Sapphire
-Wind Emerald
-Thunder Topaz
-Shadow Quartz
-Mystic Pearl
-Celestial Diamond
-Elven Leaf
-Dwarven Iron
-Siren Song
-Goblin Gear
-Vampire Fang
-Necromancer Bone
-Warlock's Sigil
-Crystal Core
+Dragon_blood
+Phoenix_Ash
+Unicorn_Tear
+Mermaid_Scale
+Fairy_Wing
+Wyvern_Venom
+Basilisk_Eye
+Griffin_Feather
+Titan_Bone
+Leviathan_Pearl
+Moonstone_Shard
+Sun_Crystal
+Star_Ruby
+Void_Essence
+Earth_Heart
+Flame_Opal
+Frost_Sapphire
+Wind_Emerald
+Thunder_Topaz
+Shadow_Quartz
+Mystic_Pearl
+Celestial_Diamond
+Elven_Leaf
+Dwarven_Iron
+Siren_Song
+Vampire_Fang
+Necromancer_Bone
+Warlock's_Sigil
+Crystal_Core

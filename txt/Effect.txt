@@ -1,30 +1,23 @@
-Ignites enemies with flames
-Freezes targets on hit
-Generates thunder on critical hits
-Cloaks the user in shadows
-Emits blinding light on impact
-Causes tremors on striking the ground
-Absorbs magical energy
-Unleashes dragonfire
-Heals the wielder when damaging enemies
-Poisons the target slowly
-Summons storms on critical strikes
-Silences enemies
-Strengthens defenses significantly
-Burns with solar energy
-Increases agility under moonlight
-Calls forth tidal waves
-Fires star-shards
-Engulfs enemies in hellfire
-Petrifies opponents on critical hits
-Revives the user upon fatal damage
-Terrifies enemies on impact
-Drowns targets in water jets
-Stuns mechanical enemies
-Drains life force from enemies
-Weaves protective magic shields
-Encases enemies in ice
-Slices through celestial energy
-Increases attack speed with wind's agility
-Enhances magical power
-Crushes with titanic force
+Burns
+Freezes
+Strikes_Thunder
+Stealth-buff
+Strength-buff
+Blinds
+Quakes
+Siphons_energy
+Lifesteal
+Poisons
+Storm_summoning
+Silences
+Bulwark
+Speed-buff
+Fires-additional-projectile
+Petrification
+Revival
+Fears
+Suffocates
+EMP-(disables_machines)
+Barrier-Generation
+Anti-Magic
+Magic-Buff

@@ -1,30 +1,30 @@
-Dragon's Lair
-Sun Temple
-Starry Observatory
-Void Rift
-Earth Elemental Shrine
-Volcano Core
-Glacial Cavern
-Windy Plateau
-Stormy Summit
-Shadow Realm
-Mystic Forest
-Celestial Gateway
-Ancient Ruins
-Phoenix Nest
-Griffon's Eyrie
-Serpent's Den
-Titan's Keep
-Elven Grove
-Dwarven Forge
-Siren's Cove
-Goblin Workshop
-Vampire's Crypt
-Fairy Glade
+Dragon's_Lair
+Sun_Temple
+Starry_Observatory
+Void_Rift
+Earth_Elemental_Shrine
+Volcano_Core
+Glacial_Cavern
+Windy_Plateau
+Stormy_Summit
+Shadow_Realm
+Mystic_Forest
+Celestial_Gateway
+Ancient_Ruins
+Phoenix_Nest
+Griffon's_Eyrie
+Serpent's_Den
+Titan's_Keep
+Elven_Grove
+Dwarven_Forge
+Siren's_Cove
+Goblin_Workshop
+Vampire's_Crypt
+Fairy_Glade
 Necropolis
-Warlock's Tower
-Crystal Cave
-Enchanted Garden
-Banshee's Haunt
-Minotaur's Labyrinth
-Chimera's Roost
+Warlock's_Tower
+Crystal_Cave
+Enchanted_Garden
+Banshee's_Haunt
+Minotaur's_Labyrinth
+Chimera's_Roost

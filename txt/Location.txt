@@ -1,30 +1,49 @@
-Dragon's Lair
-Wizard's Tower
-Elven Village
-Dwarven Mine
-Orcish Camp
-Fairy Glade
-Warlock's Keep
-Sorcerer's Sanctum
-Enchanted Grove
-Knight's Stronghold
-Necromancer's Crypt
-Pirate Cove
-Mermaid Lagoon
-Goblin Hideout
-Druid's Circle
-Phantom Castle
-Vampire Mansion
-Titan's Valley
-Phoenix Nest
-Griffin Eyrie
-Minotaur Labyrinth
-Banshee Moors
-Centaur Clearing
-Gargoyle Gate
-Wyvern Wasteland
-Leviathan Depths
-Chimera Ridge
-Hydra Swamp
-Unicorn Meadow
-Basilisk Den
+Tundra
+Desert
+Forest
+Grassland
+Wetland
+Taiga
+Savanna
+Chaparral
+Scrubland
+Swamp
+Marsh
+Moor
+Fen
+Rainforest
+Prairie
+Alpine
+Steppe
+Oasis
+Canyon
+Dune
+Estuary
+Reef
+Plateau
+Cavern
+Lagoon
+Bog
+Fenland
+Heath
+Dell
+Fjord
+Firth
+Polder
+Glen
+Grove
+Hinterland
+Mesa
+Oasis
+Pampas
+Polder
+Ridge
+Dell
+Dale
+Hollow
+Holloway
+Vale
+Wadi
+Fenland
+Lagoon
+Abyss

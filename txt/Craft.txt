@@ -1,30 +1,30 @@
-Infernal Iron
-Frostheart Crystal
-Skyforged Steel
-Nether Silk
-Radiant Gold
-Core Stone
-Dark Matter
-Dragon Scale
-Angel Feather
-Nightbloom Petal
-Stormsilver
-Ghostwood
-Ironbark
-Solar Flare Gem
-Moonstone
-Ocean Pearl
-Star Ruby
-Hellfire Shard
-Crystalized Mana
-Phoenix Down
-Specter Dust
-Leviathan Scale
-Golem Core
-Wraithbone
-Mystic Silk
-Glacial Metal
-Celestial Silver
-Aether Quartz
-Arcane Page
-Titan Alloy
+Infernal_Iron  
+Frostheart_Crystal  
+Skyforged_Steel  
+Nether_Silk  
+Radiant_Gold  
+Core_Stone  
+Dark_Matter  
+Dragon_Scale  
+Angel_Feather  
+Nightbloom_Petal  
+Stormsilver  
+Ghostwood  
+Ironbark  
+Solar_Flare_Gem  
+Moonstone  
+Ocean_Pearl  
+Star_Ruby  
+Hellfire_Shard  
+Crystalized_Mana  
+Phoenix_Down  
+Specter_Dust  
+Leviathan_Scale  
+Golem_Core  
+Wraithbone  
+Mystic_Silk  
+Glacial_Metal  
+Celestial_Silver  
+Aether_Quartz  
+Arcane_Page  
+Titan_Alloy
