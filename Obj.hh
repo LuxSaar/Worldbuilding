@@ -30,9 +30,12 @@ protected:
     }
     int rollStat(int max, int min=0) {return (rand() % (max-min))+min;}
 public:
+    virtual void print(){
+        std::cout<<"virtual function"<<std::endl;
+    }
 };
 
-class Person : private Object{
+class Person : public Object{
     protected:
     std::string Personality;
     std::string Origin;
@@ -56,7 +59,7 @@ class Person : private Object{
         Luck = rollStat(10);
         Charisma = rollStat(10);
     };
-    void print() {
+    void print() override {
         std::cout<<"\n\nPerson: "<<std::endl;
         std::cout<<"Origin: "<<Origin<<std::endl;
         std::cout<<"Personality: "<<Personality<<std::endl;
@@ -70,7 +73,7 @@ class Person : private Object{
     }
 };
 
-class Place : private Object{
+class Place : public Object{
     protected:
     std::string Locale;
     std::string Location;
@@ -91,7 +94,7 @@ class Place : private Object{
     }
 };
 
-class Item : private Object{
+class Item : public Object{
     protected:
     std::string Name;
     std::string Modifier;
@@ -116,20 +119,29 @@ class Item : private Object{
 
 };
 
-class Weapon : private Object{
+class Weapon : public Object{
     protected:
     std::string Name;
     std::string Effect;
     std::string Craft;
-    int Damage;
+    std::string Modifier;
+    std::string Catalyst;
+    std::string Source;
+    std::string Damage;
 
     public:
     Weapon(int n, int e, int c){
+        int d = rand();
+        int f = rand();
+        int g = rand();
         Type = "Weapon";
         Name = ReadObj(n, "txt/WeaponName.txt");
+        Modifier = ReadObj(f, "txt/Modifier.txt");
+        Catalyst = ReadObj(c, "txt/Catalyst.txt");
+        Source = ReadObj(d, "txt/Source.txt");
         Effect = ReadObj(e, "txt/Effect.txt");
         Craft = ReadObj(c, "txt/Craft.txt");
-        Damage = rollStat(100);
+        Damage = ReadObj(g,"txt/Damage.txt");
     }
 
     void print() {
@@ -141,4 +153,3 @@ class Weapon : private Object{
     }
 
 };
-
