@@ -7,42 +7,56 @@
 #include <unistd.h>
 #include <array>
 #include <fstream>
+#include <vector>
 #include "Obj.hh"
 
 using namespace std;
 
 int main(void){
+    vector<Object*> ObjList;
     srand(time(0));
-
-    bool run=true;
-
-    while(run==true) {
-        int selector;
-        std::cout<< "\n0. End Program \n1. Person \n2. Place \n3. Item \n4. Weapon \nSelect: ";
-        std::cin >> selector;
-
-    switch (selector) {
-        case 1 : {
-            Person object(rand(), rand(), rand(), rand());
-            object.print();
-        }; break;
-        case 2 : {
-            Place object(rand(), rand(), rand());
-            object.print();
-        }; break;
-        case 3 : {
-            Item object(rand(), rand(), rand(), rand());
-            object.print();
-        }; break;
-        case 4 : {
-            Weapon object(rand(), rand(), rand());
-            object.print();
-        }; break;
-        default : {run=false;}
-
+    for(int i = 0; i <10; i++){
+        string Type;
+        cout<<"What type of object would you like to create? (options are Person, Place, Item and Weapon)"<<endl<<"If you'd like to view the objects you've created and terminate the program type view"<<endl;
+        cin>>Type;
+        transform(Type.begin(), Type.end(), Type.begin(), ::toupper);
+        if (Type == "PERSON"){
+            Person* newPerson = new Person(rand(), rand(), rand(), rand());
+            ObjList.push_back(newPerson);
+            ObjList[i]->print();
+        }
+        else if (Type == "PLACE"){
+            Place* newPlace = new Place(rand(), rand(), rand());
+            ObjList.push_back(newPlace);
+            ObjList[i]->print();
+        }
+        else if (Type == "ITEM"){
+            Item* newItem = new Item(rand(), rand(), rand(), rand());
+            ObjList.push_back(newItem);
+            ObjList[i]->print();
+        }
+        else if (Type == "WEAPON"){
+            Weapon* newItem = new Weapon(rand(), rand(), rand());
+            ObjList.push_back(newItem);
+            ObjList[i]->print();
+        }
+        else if (Type == "VIEW"){
+            for(int j; j < ObjList.size();j++){
+                cout<<ObjList.size()<<endl;
+                try
+                {
+                    ObjList[j]->print();
+                }
+                catch(const std::exception& e)
+                {
+                    break;
+                }
+            }
+            break;
+        }
+        else{
+            i--;
+            cout<<"Invalid Input"<<endl;
+        }
     }
-    }
-
-    std::cout<<"\n\n";
-
 }
