@@ -13,15 +13,35 @@ using namespace std;
 
 int main(void){
     srand(time(0));
-    Person person1(rand(), rand(), rand(), rand());
-    Place place1(rand(), rand(), rand());
-    Item item1(rand(), rand(), rand(), rand());
-    Weapon weapon1(rand(), rand(), rand());
 
-    person1.print();
-    place1.print();
-    item1.print();
-    weapon1.print();
+    bool run=true;
+
+    while(run==true) {
+        int selector;
+        std::cout<< "\n0. End Program \n1. Person \n2. Place \n3. Item \n4. Weapon \nSelect: ";
+        std::cin >> selector;
+
+    switch (selector) {
+        case 1 : {
+            Person object(rand(), rand(), rand(), rand());
+            object.print();
+        }; break;
+        case 2 : {
+            Place object(rand(), rand(), rand());
+            object.print();
+        }; break;
+        case 3 : {
+            Item object(rand(), rand(), rand(), rand());
+            object.print();
+        }; break;
+        case 4 : {
+            Weapon object(rand(), rand(), rand());
+            object.print();
+        }; break;
+        default : {run=false;}
+
+    }
+    }
 
     std::cout<<"\n\n";
 
